@@ -41,7 +41,7 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start -p $PORT"
   },
   "devDependencies": {
     "css-loader": "^3.2.0",
